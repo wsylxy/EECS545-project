@@ -1,5 +1,5 @@
 """
-Authors: Zeqian Cai, Yurui Chang, Jinhuan Ke, Yichen Li, Suyuan Wang
+Authors: Yichen Li, Suyuan Wang, Zeqian Cai, Yurui Chang, Jinhuan Ke 
 Date: 2022/03/06
 Version: V 1.0
 Function: To build the model class
